@@ -41,3 +41,8 @@ Password: 1234
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
+
+
+This project was built as part of my internship learning to improve Java GUI and OOP concepts.
+
+Developed by Mayank Mihir...
